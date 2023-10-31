@@ -15,7 +15,10 @@ public class bugra {
         System.out.println(z+y+x);
         // versiyon 3 için kodlar
         System.out.println("versiyon 3 kodlari");
+        // versiyon 4 icin kodlar
 
+        int a=8;
+        System.out.println("versiyon 4 tamamlandı");
 
 
 
