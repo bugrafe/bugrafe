@@ -10,7 +10,9 @@ public class bugra {
         System.out.println(x+y);
         System.out.println("Versiyon 1 tamamlandı");
 
-
+        // versiyon 2 için kodlar
+        int z=5;
+        System.out.println(z+y+x);
 
 
 
